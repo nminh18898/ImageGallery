@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_highlight"
+        android:icon="@drawable/ic_action_highlight"
+        android:orderInCategory="100"
+        android:title="@string/highlight"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/action_edit_photo_round_corners"
+        android:icon="@drawable/ic_edit_photo_round_corner"
+        android:orderInCategory="200"
+        android:title="@string/round_corners"
+        app:showAsAction="always|withText" />
+</menu>

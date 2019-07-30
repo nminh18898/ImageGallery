@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_action_edit"
+        android:orderInCategory="1"
+        android:title="@string/edit_photo"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_action_delete"
+        android:title="@string/delete"
+        android:orderInCategory="5"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/share"
+        android:orderInCategory="2"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/action_rotate_right_90"
+        android:icon="@drawable/ic_action_rotate_right_90"
+        android:title="@string/rotate_right_90_degrees"
+        android:orderInCategory="3"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_copy"
+        android:icon="@drawable/ic_action_copy"
+        android:title="@string/copy"
+        android:orderInCategory="4"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_cut"
+        android:icon="@drawable/ic_action_cut"
+        android:title="@string/cut"
+        android:orderInCategory="6"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_set_wallpaper"
+        android:icon="@drawable/ic_action_set_wallpaper"
+        android:title="@string/set_wallpaper"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_set_lockscreen"
+        android:title="@string/set_lock_screen"
+        app:showAsAction="never" />
+
+
+
+    <item
+        android:id="@+id/action_set_contact_picture"
+        android:title="@string/set_contact_picture"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_rename"
+        android:title="@string/rename"
+        app:showAsAction="never"
+        />
+
+
+
+    <item
+        android:id="@+id/action_details"
+        android:title="@string/details"
+        app:showAsAction="never"
+        />
+
+
+
+    <item
+        android:id="@+id/action_flip_horizontal"
+        android:title="@string/flip_horizontal"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_flip_vertical"
+        android:title="@string/flip_vertical"
+        app:showAsAction="never"
+        />
+
+
+
+</menu>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">I8 Photo Gallery</string>
+    <string name="add_to_favorites">Add to favorites</string>
+
+    <string name="please_allow_this_app_to_read_or_write_to_your_storage">
+        Please allow this app to read or write to your storage.</string>
+
+    <string name="create_new_album">
+        Create new album</string>
+
+    <string name="add_to_existing_album">
+        Add to existing album:</string>
+
+    <string name="enter_a_name_for_this_album">Enter a name for this album</string>
+
+    <string name="choose_your_existing_album_or_create_a_new_one">Choose your existing album or create a new one</string>
+
+    <string name="this_album_has_already_contained_this_photo">This album has already contained this photo. Please choose another one.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="remove_from_favorite_album_successfully">Remove from favorite album successfully</string>
+    <string name="set_home_screen_successfully">Set home screen successfully</string>
+    <string name="set_lock_screen_successfully">Set lock screen successfully</string>
+    <string name="rename_successfully">Rename successfully</string>
+    <string name="delete_successfully">Delete successfully</string>
+    <string name="highlight">Highlight</string>
+    <string name="edit_photo">Edit photo</string>
+    <string name="round_corners">Round corners</string>
+
+    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="set_lock_screen">Set Lockscreen</string>
+
+    <string name="label_brush">Brush</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Sticker</string>
+    <string name="label_eraser">Eraser</string>
+    <string name="label_text">Text</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_adjust">Adjust</string>
+
+    <string name="facebook_app_id">808431529528817</string>
+    <string name="share">Share</string>
+    <string name="can_not_set_contact_picture">Can not set contact picture</string>
+    <string name="set_contact_picture">Set contact picture</string>
+    <string name="file_not_found">File not found</string>
+    <string name="file_name_already_exists">File name already exists</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="info">Info</string>
+    <string name="details">Details</string>
+    <string name="rotate_right_90_degrees">Rotate right 90 degrees</string>
+    <string name="flip_horizontal">Flip horizontal</string>
+    <string name="flip_vertical">Flip vertical</string>
+    <string name="select_destination_folders">Select destination folders</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="copy_file_successfully">Copy file successfully</string>
+    <string name="duplicate_file_successfully">Duplicate file successfully</string>
+    <string name="move_file_successfully">Move file successfully</string>
+    <string name="can_not_move_file_to_the_same_destination">Can not move file to the same destination</string>
+
+
+    <string name="brightness">Brightness</string>
+    <string name="overwrite_existing_file">Overwrite existing file</string>
+    <string name="make_a_new_file">Make a new file</string>
+    <string name="enter_new_name">Enter new name...</string>
+    <string name="save_file">Save file</string>
+    <string name="file_overwritten">File overwritten</string>
+    <string name="done">Done</string>
+</resources>
